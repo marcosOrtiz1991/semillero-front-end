@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_MIOPTIIAJ_932": {
+			"name": "MIOP"
+		}
+	},
+	"GITPQ": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_TLLERRKHVUSXI_914": {
+				"name": "EstudianteMIOForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

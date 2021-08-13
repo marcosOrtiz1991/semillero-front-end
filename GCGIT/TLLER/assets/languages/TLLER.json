@@ -1,10 +1,12 @@
 {
-    "TLLER": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"TLLER": {
+		"LBL": {
+			"LBL_TLLER_APELLIDOO_13239": "Apellido",
+			"LBL_TLLER_GUARDARUB_61600": "Guardar",
+			"LBL_TLLER_NOMBRECGZ_43360": "Nombre",
+			"LBL_TLLER_SEXOLCURI_50677": "Sexo"
+		},
+		"MSG": {
+		}
+	}
 }
