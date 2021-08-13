@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_ESTUDIAEE_979": {
+			"name": "EstudianteEV"
+		}
+	},
+	"GITPQ": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_TLLERNCHNNSYX_885": {
+				"name": "EstudianteEGVMForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

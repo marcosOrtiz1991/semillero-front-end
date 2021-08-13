@@ -1,6 +1,43 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_ESTUDIAEE_979": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_TLLERNCHNNSYX_885": {
+			"blis": [
+			],
+			"entities": {
+				"EN_ESTUDIAEE_979": [
+					"AT38_APELLIDO979",
+					"AT38_NOMBREFG979",
+					"AT67_SEXOEAMY979",
+					"AT80_EDADIMHQ979"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_TLLER_APELLIDOO_87573",
+				"LBL_TLLER_EDADHJUHX_22715",
+				"LBL_TLLER_GUARDARMB_64102",
+				"LBL_TLLER_NOMBREQPY_51776",
+				"LBL_TLLER_SEXOYUIUK_80258"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }
