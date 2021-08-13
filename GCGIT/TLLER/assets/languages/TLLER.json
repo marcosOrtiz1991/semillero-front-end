@@ -1,10 +1,18 @@
 {
 	"TLLER": {
 		"LBL": {
+<<<<<<< HEAD
+			"LBL_TLLER_APELLIDOO_87573": "Apellido",
+			"LBL_TLLER_EDADHJUHX_22715": "Edad",
+			"LBL_TLLER_GUARDARMB_64102": "Guardar",
+			"LBL_TLLER_NOMBREQPY_51776": "Nombre",
+			"LBL_TLLER_SEXOYUIUK_80258": "Sexo"
+=======
 			"LBL_TLLER_APELLIDOO_13239": "Apellido",
 			"LBL_TLLER_GUARDARUB_61600": "Guardar",
 			"LBL_TLLER_NOMBRECGZ_43360": "Nombre",
 			"LBL_TLLER_SEXOLCURI_50677": "Sexo"
+>>>>>>> 655cd1bf5700c057b620619e3d83124f96b8a2c5
 		},
 		"MSG": {
 		}

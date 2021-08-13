@@ -1,15 +1,15 @@
 {
 	"Entities": {
-		"EN_MIOPTIIAJ_932": {
-			"name": "MIOP"
+		"EN_ESTUDIAEE_979": {
+			"name": "EstudianteEV"
 		}
 	},
 	"GITPQ": {
 		"CompositeForms": {
 		},
 		"Forms": {
-			"T_TLLERRKHVUSXI_914": {
-				"name": "EstudianteMIOForm"
+			"T_TLLERNCHNNSYX_885": {
+				"name": "EstudianteEGVMForm"
 			}
 		},
 		"Queries": {
