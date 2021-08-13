@@ -1,19 +1,19 @@
 {
 	"culture": "culture",
 	"metadataVersion": "7.2.0.2024 BETA",
-	"moduleId": "TLLER",
+	"moduleId": "FORMQ",
 	"modules": [
 		{
-			"moduleId": "TLLER",
-			"moduleName": "TALLER",
+			"moduleId": "FORMQ",
+			"moduleName": "FORM",
 			"subModules": [
 				{
-					"subModuleId": "GITPQ",
-					"subModuleName": "GIT"
+					"subModuleId": "G3FRM",
+					"subModuleName": "G3FORMS"
 				}
 			]
 		}
 	],
 	"projectName": "GCGIT",
-	"subModuleId": "GITPQ"
+	"subModuleId": "G3FRM"
 }
