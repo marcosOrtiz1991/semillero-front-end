@@ -1,0 +1,20 @@
+{
+	"Entities": {
+		"EN_MIOPGZIWJ_716": {
+			"name": "Miop"
+		}
+	},
+	"G3FRM": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_QCOYNRCCJYELB_821": {
+				"name": "EstudianteMiopForm"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
+	}
+}

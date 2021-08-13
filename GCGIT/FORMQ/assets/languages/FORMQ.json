@@ -1,10 +1,11 @@
 {
-    "FORMQ": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"FORMQ": {
+		"LBL": {
+			"LBL_FORMQ_APELLIDOO_41005": "Apellido",
+			"LBL_FORMQ_NOMBREXCY_20082": "Nombre",
+			"LBL_FORMQ_SEXOYQQWQ_24425": "Sexo"
+		},
+		"MSG": {
+		}
+	}
 }

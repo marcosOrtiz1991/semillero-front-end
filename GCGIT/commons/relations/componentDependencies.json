@@ -1,6 +1,40 @@
 {
-	"Entities": {},
-	"Forms": {},
-	"CompositeForms": {},
-	"Queries": {}
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_MIOPGZIWJ_716": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_QCOYNRCCJYELB_821": {
+			"blis": [
+			],
+			"entities": {
+				"EN_MIOPGZIWJ_716": [
+					"AT10_APELLIDD716",
+					"AT67_SEXOGQPZ716",
+					"AT81_NOMBREIS716"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_FORMQ_APELLIDOO_41005",
+				"LBL_FORMQ_NOMBREXCY_20082",
+				"LBL_FORMQ_SEXOYQQWQ_24425"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
 }
