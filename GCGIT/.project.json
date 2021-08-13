@@ -1,0 +1,19 @@
+{
+	"culture": "culture",
+	"metadataVersion": "7.2.0.2024 BETA",
+	"moduleId": "TLLER",
+	"modules": [
+		{
+			"moduleId": "TLLER",
+			"moduleName": "TALLER",
+			"subModules": [
+				{
+					"subModuleId": "GITPQ",
+					"subModuleName": "GIT"
+				}
+			]
+		}
+	],
+	"projectName": "GCGIT",
+	"subModuleId": "GITPQ"
+}
