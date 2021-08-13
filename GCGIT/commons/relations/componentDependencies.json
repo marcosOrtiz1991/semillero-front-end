@@ -2,12 +2,17 @@
 	"CompositeForms": {
 	},
 	"Entities": {
+<<<<<<< HEAD
 		"EN_ESTUDIAEE_979": {
+=======
+		"EN_MIOPTIIAJ_932": {
+>>>>>>> 655cd1bf5700c057b620619e3d83124f96b8a2c5
 			"labels": [
 			]
 		}
 	},
 	"Forms": {
+<<<<<<< HEAD
 		"T_TLLERNCHNNSYX_885": {
 			"blis": [
 			],
@@ -17,6 +22,16 @@
 					"AT38_NOMBREFG979",
 					"AT67_SEXOEAMY979",
 					"AT80_EDADIMHQ979"
+=======
+		"T_TLLERRKHVUSXI_914": {
+			"blis": [
+			],
+			"entities": {
+				"EN_MIOPTIIAJ_932": [
+					"AT35_SEXOZRRU932",
+					"AT68_APELLIOO932",
+					"AT95_NOMBREXG932"
+>>>>>>> 655cd1bf5700c057b620619e3d83124f96b8a2c5
 				]
 			},
 			"externalEntities": {
@@ -26,11 +41,18 @@
 			"header": [
 			],
 			"labels": [
+<<<<<<< HEAD
 				"LBL_TLLER_APELLIDOO_87573",
 				"LBL_TLLER_EDADHJUHX_22715",
 				"LBL_TLLER_GUARDARMB_64102",
 				"LBL_TLLER_NOMBREQPY_51776",
 				"LBL_TLLER_SEXOYUIUK_80258"
+=======
+				"LBL_TLLER_APELLIDOO_13239",
+				"LBL_TLLER_GUARDARUB_61600",
+				"LBL_TLLER_NOMBRECGZ_43360",
+				"LBL_TLLER_SEXOLCURI_50677"
+>>>>>>> 655cd1bf5700c057b620619e3d83124f96b8a2c5
 			],
 			"queries": {
 			},
