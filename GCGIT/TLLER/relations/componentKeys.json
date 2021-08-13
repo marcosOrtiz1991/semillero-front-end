@@ -1,25 +1,15 @@
 {
 	"Entities": {
-<<<<<<< HEAD
 		"EN_ESTUDIAEE_979": {
 			"name": "EstudianteEV"
-=======
-		"EN_MIOPTIIAJ_932": {
-			"name": "MIOP"
->>>>>>> 655cd1bf5700c057b620619e3d83124f96b8a2c5
 		}
 	},
 	"GITPQ": {
 		"CompositeForms": {
 		},
 		"Forms": {
-<<<<<<< HEAD
 			"T_TLLERNCHNNSYX_885": {
 				"name": "EstudianteEGVMForm"
-=======
-			"T_TLLERRKHVUSXI_914": {
-				"name": "EstudianteMIOForm"
->>>>>>> 655cd1bf5700c057b620619e3d83124f96b8a2c5
 			}
 		},
 		"Queries": {
